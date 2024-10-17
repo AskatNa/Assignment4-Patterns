@@ -1,2 +1,5 @@
-package SecondTask;public interface Command {
+package SecondTask;
+
+public interface Command {
+    void execute();
 }
